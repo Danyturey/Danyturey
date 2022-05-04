@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Danyturey
-- 👀 I’m interested in  aprender  a programar  o  seguridad  cibernetica
-- 🌱 Actualmente estoy  aprendiendo  a  programmar  un juego de futbol 
-- 💞️ Busco colaborar en  empresas de ciber  seguridad
-- 📫 How to reach me  por mail 
+- 👀 I’m interested in  learn to program or cyber security
+- 🌱 I am currently learning to program a soccer game 
+- 💞️ I am looking to collaborate in cyber security companies
+- 📫 How to reach me for mail 
 
 <!---
 Danyturey/Danyturey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
